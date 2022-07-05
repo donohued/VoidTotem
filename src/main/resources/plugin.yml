@@ -1,0 +1,13 @@
+name: VoidTotems
+version: ${project.version}
+main: com.softwaremongers.voidtotem.Main
+api-version: 1.15
+prefix: totem
+authors: [ SeriouslyNix ]
+description: Adds a void totem that saves you from dying in the end!
+website: softwaremongers.com
+
+commands:
+  totem:
+    description: does totem stuff.
+

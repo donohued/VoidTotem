@@ -1,0 +1,15 @@
+MaterialList: "https://minecraftitemids.com/types/material"
+Totems:
+  Void:
+    Enabled: true
+    Shapeless: false
+    Crafting:
+      Top: fef
+      Mid: dtd
+      Bot: ccc
+    Materials:
+      f: FEATHER
+      e: ENDER_EYE
+      d: DIAMOND
+      t: TOTEM_OF_UNDYING
+      c: CHORUS_FRUIT
